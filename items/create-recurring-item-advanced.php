@@ -13,6 +13,7 @@ $data = array(
     'custom_name'          => 'Custom name',
     'custom_singular_name' => 'For Sale',
     'vat_rule'             => 'digital',
+    'editable'             => true,
     'excerpt'              => __( 'This is my first item.', 'textdomain' ),
     'is_recurring'         => 1,
     'recurring_period'     => 'M',
