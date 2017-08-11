@@ -7,7 +7,7 @@
 $data = array(
     'type'                 => 'custom',
     'title'                => __( 'Advance Recurring Item', 'textdomain' ),
-    'custom_id'            => 1234567891,
+    'custom_id'            => 123457,
     'price'                => '99.00',
     'status'               => 'publish',
     'custom_name'          => 'Custom name',
