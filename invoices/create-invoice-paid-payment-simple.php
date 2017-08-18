@@ -2,6 +2,7 @@
 /**
  * Create a simple invoice with pending payment.
  *
+ * @see https://wpinvoicing.com/docs/wpinv_insert_invoice/#example-3
  */
 
 $data = array(

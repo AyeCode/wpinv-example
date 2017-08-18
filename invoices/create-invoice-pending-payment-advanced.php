@@ -2,6 +2,7 @@
 /**
  * Create a simple invoice.
  *
+ * @see https://wpinvoicing.com/docs/wpinv_insert_invoice/#example-2
  */
  
 $data = array(
