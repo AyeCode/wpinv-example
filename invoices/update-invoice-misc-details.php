@@ -8,7 +8,7 @@
 
 $data = array(
     'ID'              => 2559,
-    'status'          => 'pending',
+    'status'          => 'wpi-pending',
     'post_date'       => '2017-08-17 18:50:30',
     'ip'              => '1.39.51.23',
     'due_date'        => '2017-08-20',

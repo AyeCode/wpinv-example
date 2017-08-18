@@ -7,7 +7,7 @@
 
 $data = array(
     'ID'              => 2559,
-    'status'          => 'pending',
+    'status'          => 'wpi-pending',
     'post_date'       => '2017-08-16 18:50:30',
     'cart_details'    => array(
         'add_items'     => array( 

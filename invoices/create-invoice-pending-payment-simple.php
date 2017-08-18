@@ -6,7 +6,7 @@
  */
 
 $data = array(
-    'status'        => 'pending',
+    'status'        => 'wpi-pending',
     'user_id'       => 1,
     'cart_details'  => array(
         array(
