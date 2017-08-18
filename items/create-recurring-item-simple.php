@@ -2,6 +2,7 @@
 /**
  * Create a simple recurring item.
  *
+ * @see https://wpinvoicing.com/docs/wpinv_create_item/#example-3
  */
  
 $data = array(

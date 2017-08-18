@@ -2,6 +2,7 @@
 /**
  * Create a simple item.
  *
+ * @see https://wpinvoicing.com/docs/wpinv_create_item/#example-1
  */
  
 $data = array(

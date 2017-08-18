@@ -2,6 +2,7 @@
 /**
  * Create a item with advance data.
  *
+ * @see https://wpinvoicing.com/docs/wpinv_create_item/#example-2
  */
  
 $data = array(

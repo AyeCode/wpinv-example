@@ -2,6 +2,7 @@
 /**
  * Update item with simple data.
  *
+ * @see https://wpinvoicing.com/docs/wpinv_update_item/#example-1
  */
  
 $data = array(

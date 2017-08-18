@@ -2,10 +2,11 @@
 /**
  * Create a simple invoice.
  *
+ * @see https://wpinvoicing.com/docs/wpinv_insert_invoice/#example-2
  */
  
 $data = array(
-    'status'            => 'pending',
+    'status'            => 'wpi-pending',
     'user_id'           => 1,
     'cart_details'      => array(
         array(
